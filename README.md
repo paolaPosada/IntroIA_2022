@@ -18,3 +18,7 @@ Debido al tamaño del dataset se modifica la cantidad de datos, y se pueden hace
 
     import pandas as pd
     data = pd.read_csv('https://res.cloudinary.com/djljdabgc/raw/upload/v1660773479/hotel_booking_2015_zl7you.csv')
+    
+## Video
+
+[Entrega 2 - Explicación](https://www.youtube.com/watch?v=PnVMXru5J8I&ab_channel=SGC)
