@@ -14,7 +14,7 @@ Los datos del proyecto vienen de [Hotel Booking](https://www.kaggle.com/datasets
     import pandas as pd
     data = pd.read_csv('/kaggle/input/hotel-booking/hotel_booking.csv')
     
-Debido al tamaño del dataset se modifica la cantidad de datos), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
+Debido al tamaño del dataset se modifica la cantidad de datos, y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
 
     import pandas as pd
     data = pd.read_csv('https://res.cloudinary.com/djljdabgc/raw/upload/v1660773479/hotel_booking_2015_zl7you.csv')
